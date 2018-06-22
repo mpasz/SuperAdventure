@@ -1,0 +1,12 @@
+C:\Users\Michal\source\repos\SuperAdventure\Engine\bin\Debug\Engine.dll
+C:\Users\Michal\source\repos\SuperAdventure\Engine\bin\Debug\Engine.pdb
+C:\Users\Michal\source\repos\SuperAdventure\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\Michal\source\repos\SuperAdventure\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Michal\source\repos\SuperAdventure\Engine\obj\Debug\Engine.dll
+C:\Users\Michal\source\repos\SuperAdventure\Engine\obj\Debug\Engine.pdb
+C:\Users\mpasz\source\C-\repos\SuperAdventure\Engine\bin\Debug\Engine.dll
+C:\Users\mpasz\source\C-\repos\SuperAdventure\Engine\bin\Debug\Engine.pdb
+C:\Users\mpasz\source\C-\repos\SuperAdventure\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\mpasz\source\C-\repos\SuperAdventure\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\mpasz\source\C-\repos\SuperAdventure\Engine\obj\Debug\Engine.dll
+C:\Users\mpasz\source\C-\repos\SuperAdventure\Engine\obj\Debug\Engine.pdb
