@@ -1,10 +1,14 @@
-﻿namespace Engine
+﻿using System.Collections.Generic;
+
+namespace Engine
 {
+
     public class Item
     {
         public int ID { get; set; }
         public string Name { get; set; }
         public string NamePlural { get; set; }
+        public List<InventoryItem> MyItems { get; set; }
 
         public Item(int id , string name, string namePlural)
         {
